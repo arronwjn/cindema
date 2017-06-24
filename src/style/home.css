@@ -12,7 +12,7 @@ body,html{
   width: 16rem;
   /*height: 25.2rem;*/
   height: 100%;
-  background: url('../images/index.jpg') center;
+  background: url('build/4d49f6bb13e9c8b55c1401885ca4386a.jpg') center;
   background-repeat: no-repeat;
   -webkit-background-size: 100% 100%;
   background-size: cover;
