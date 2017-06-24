@@ -93,7 +93,7 @@ class Details extends React.Component{
         <div className='tip' style={{display:this.state.btn?'block':'none'}}>海报生成中</div>
         {picid?
             <div className='generate-warp'  style={{backgroundImage:`url(http://runner.kaituocn.com/${this.state.url})`}}>
-              <img src={`../src/images/${showData}.png`}/>
+              <img src={`./src/images/${showData}.png`}/>
             </div>:
         <div className='poster-warp'>
             {this._showDataOne(showData)}
