@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html,body{
+  height: 100%;
+}
+.generate-warp{
+  width: 100%;
+  height: 99%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.generate-warp img{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
